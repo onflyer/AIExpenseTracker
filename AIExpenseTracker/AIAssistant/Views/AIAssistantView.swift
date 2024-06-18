@@ -8,7 +8,7 @@
 import ChatGPTUI
 import SwiftUI
 
-let apiKey = "ENTER YOUR API KEY"
+let apiKey = "sk-proj-wx5qEmCwrKuyJVTKDMwPT3BlbkFJ1VzAqQvirCM8T98O3uTg"
 let _senderImage = "328703894_734233434987542_5058987690506399792_n"
 let _botImage = "https://freepnglogo.com/images/all_img/1690998192chatgpt-logo-png.png"
 
